@@ -1,5 +1,5 @@
 
-# 🚀 CloudEagle_Repository_Analyzer
+# 🚀 Repository_Analyzer
 
 A Spring Boot application that authenticates users using GitHub OAuth 2.0 and generates a report showing which users (collaborators) have access to which repositories in a given GitHub organization.
 
